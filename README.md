@@ -1,10 +1,3 @@
 # pandas-challenge
 
-Module 4 
-
-Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
-
-Trend 1:
-
-Trend 2:
+Hello, I had some issues with some of my dataframes generating which caused downstream impacts in my coding.  Trying to get a tutor to help, but any insight you have would be great.  I tried to set up the later cells to work once I get this fixed but wasnt able to troubleshoot them yet.  Thank you!
